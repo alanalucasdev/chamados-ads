@@ -4,11 +4,15 @@ Projeto desenvolvido no âmbito da disciplina de Programação Web, do curso de 
 
 ## Identificação da Estudante
 
-Curso: Análise e Desenvolvimento de Sistemas (ADS)
-Instituição: Universidade Federal do Cariri (UFCA)
-Disciplina: ADS0021 | PROGRAMAÇÃO PARA WEB - 2026.2
-Professor: Prof. Dr. Jayr Alencar Pereira
-Aluna: Alana Maria Brito Lucas
+**Curso:** Análise e Desenvolvimento de Sistemas (ADS)
+
+**Instituição:** Universidade Federal do Cariri (UFCA)
+
+**Disciplina:** ADS0021 | PROGRAMAÇÃO PARA WEB - 2026.2
+
+**Professor:** Prof. Dr. Jayr Alencar Pereira
+
+**Aluna:** Alana Maria Brito Lucas
 
 ## Objetivo do Projeto
 
